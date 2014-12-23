@@ -6,7 +6,7 @@ Ejemplo
 ```html
 <!DOCTYPE html>
 <html>
-	<head></head>
-	<body></body>
+  <head></head>
+  <body></body>
 </html>
 ```
