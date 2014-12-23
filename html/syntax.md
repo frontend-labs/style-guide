@@ -4,7 +4,7 @@ Syntax
 - Se tiene que usar dos espacios para tu indentado de código
 - Se tiene que usar doble comilla ( " " ) para declarar a tus atributos, nunca uses comilla simple ( ' ' )
 - No incluyas las barras de cierre en los elementos como input, br, img, hr
-```html 
+```html
 <!-- Malo -->
 <input/> <br/> <img/> <hr/>
 <!-- Bueno -->
