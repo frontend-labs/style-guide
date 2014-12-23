@@ -9,5 +9,6 @@ Al escribir código HTML evite el uso indiscriminado de etiquetas.
 	<p>Descripcion dentro del parrafo</p>
 </div>
 <!--Recomendado-->
-<p class="description">Descripcion dentro del parrafo</p>```
+<p class="description">Descripcion dentro del parrafo</p>
+```
 

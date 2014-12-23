@@ -6,4 +6,5 @@ El código html debe estar en minúsculas.
 <!-- No recomendado -->
 <A HREF="/">Soy un link</A>
 <!-- recomendado -->
-<a href="/">Soy un link</a>```
+<a href="/">Soy un link</a>
+```

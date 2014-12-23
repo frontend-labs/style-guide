@@ -15,4 +15,5 @@ Por lo cual sugerimos no colocar ningún valor para los atributos booleanos.
 
 <select>
 	<option value="1" selected>1</option>
-</select>```
+</select>
+```

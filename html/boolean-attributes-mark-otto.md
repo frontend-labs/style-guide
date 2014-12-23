@@ -3,5 +3,6 @@ El orden de los atributos deben estar en orden para facilitar su lectura. Se rec
 
 > **Ejemplo:**
 >```html
-<img id="lnkEjemplo" href="javascript:;" src="ejemplo.png" title="ejemplo"/>```
+<img id="lnkEjemplo" href="javascript:;" src="ejemplo.png" title="ejemplo"/>
+```
 
