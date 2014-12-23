@@ -8,12 +8,12 @@ En el doctype XHTML era requerido un valor, pero para un doctype HTML5 no es req
 Por lo cual sugerimos no colocar ningún valor para los atributos booleanos.
 
 > **Ejemplo:**
-> 
-> `<input type="text" disabled>`
-> 
->  `<input type="checkbox" value="1" checked>`
->  
->  `<select>
-         <option value="1" selected>1</option>
-     </select>`
->
+>```html
+<input type="text" disabled>
+
+<input type="checkbox" value="1" checked>
+
+<select>
+	<option value="1" selected>1</option>
+</select>
+```
