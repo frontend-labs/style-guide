@@ -12,7 +12,7 @@ Manten por separado la estructura(html), la presentacion(css) y la conducta (js)
 <div style="background:red;">tengo mi hoja de estilos pero igual uso estilos en linea</div>
 <script>
 function alertarqueyacargo(){
-	alert('cargue');
+	alert('la pagina termino de cargar');
 }
 </script>
 <!-- Recommended -->
@@ -20,6 +20,6 @@ function alertarqueyacargo(){
 <title>HTML Limpio</title>
 <link rel="stylesheet" href="base.css">
 <h1>HTML Muy limpio</h1>
-<p>Todos los estilos en mi hoja e estilos :) </p>
+<p>Todos los estilos estan en mi hoja de estilos :) </p>
 <script src="funciones.js"></script>
 ```
