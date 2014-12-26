@@ -3,7 +3,7 @@ Manten por separado la estructura(html), la presentacion(css) y la conducta (js)
 
 >**Ejemplo:**
 >```html
-<!-- Not recommended -->
+<!-- No recomendado -->
 <!DOCTYPE html>
 <title>HTML sucio</title>
 <link rel="stylesheet" href="estilo1.css" media="screen">
@@ -15,7 +15,7 @@ function alertarqueyacargo(){
 	alert('la pagina termino de cargar');
 }
 </script>
-<!-- Recommended -->
+<!-- Recomendado -->
 <!DOCTYPE html>
 <title>HTML Limpio</title>
 <link rel="stylesheet" href="base.css">
