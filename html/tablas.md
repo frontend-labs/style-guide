@@ -1,6 +1,6 @@
 ##Tablas
 
-Utiliza de manera correcta las etiquetas <thead>, <tfoot>, <tbody>, y <th>. Nota el <tfoot> debe ir arriba de <tbody> por razones de velocidad.
+Utiliza de manera correcta las etiquetas thead, tfoot, tbody, y th. Nota el tfoot debe ir arriba de tbody por razones de velocidad.
 
 >**Ejemplo:**
 >```html
