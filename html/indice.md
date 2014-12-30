@@ -8,8 +8,8 @@ HTML
 
 ##Haz que tu codigo sea facil de entender para todos
 - [capitalizacion]
-- [combinacion de css y javascript]
-- [combinar html y javascript]
+- [atributos en etiquetas de css y javascript]
+- [insertar html por javascript]
 - [reduccion de etiquetas]
 - [separacion de lenguajes]
 - [tablas]
@@ -38,9 +38,9 @@ HTML
 
 [caracteres codificado]:https://github.com/frontend-labs/style-guide/blob/master/html/caracteres-codificados.md
 
-[combinacion de css y javascript]:https://github.com/frontend-labs/style-guide/blob/master/html/combinacion-de-css-y-javascript.md
+[atributos en etiquetas de css y javascript]:https://github.com/frontend-labs/style-guide/blob/master/html/atributos-en-etiquetas-de-css-y-javascript.md
 
-[combinar html y javascript]:https://github.com/frontend-labs/style-guide/blob/master/html/combinar_html_con_js.md
+[insertar html por javascript]:https://github.com/frontend-labs/style-guide/blob/master/html/insertar-html-por-javascript.md
 
 [comillas en html]:https://github.com/frontend-labs/style-guide/blob/master/html/comillas-en-HTML.md
 
