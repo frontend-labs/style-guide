@@ -22,7 +22,7 @@ HTML
 - [Atributo del lenguaje]
 - [Comillas en HTML]
 - [Multimedia]
-- [Semántica]
+- [Semantica]
 - [Protocolo]
 
 ##Solo es una guia 
