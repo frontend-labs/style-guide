@@ -1,24 +1,25 @@
-Syntax
--------------
+##Sintaxis
 
 - Se tiene que usar dos espacios para tu indentado de código
 - Se tiene que usar doble comilla ( " " ) para declarar a tus atributos, nunca uses comilla simple ( ' ' )
 - No incluyas las barras de cierre en los elementos como input, br, img, hr
-```html
+
+>```html
 <!-- Malo -->
 <input/> <br/> <img/> <hr/>
 <!-- Bueno -->
 <input> <br> <img> <hr> 
 ```
-- No omitir las etiquetas de cierre
+>**No omitir las etiquetas de cierre**
 ```html
 <!-- Malo -->
 <li> <html> <body>
 <!-- Bueno -->
 <li></li> <html></html> <body></body>
 ```
-Ejemplo General
-```html
+
+>**Ejemplo General**
+>```html
 <!DOCTYPE html>
 <html>
   <head>

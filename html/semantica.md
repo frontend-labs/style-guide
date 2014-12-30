@@ -1,4 +1,4 @@
-##Semantica
+##Semántica
 Usa los elementos de html con el proposito para el cual han sido creados.
 
 >**Ejemplo:**

@@ -1,9 +1,9 @@
-Internet Explorer compatibility mode
--------------
+##Internet Explorer compatibility mode
+
 Internet Explorer posee un soporte de versiones la cual funciona con la etiqueta  ```<meta> ```  con ese fin se tiene usar la última versión que soporta IE para lo cual se tiene que usar la opción **edge mode**
 
-Ejemplo
-```hmtl
+>Ejemplo
+>```hmtl
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 ```
 Revisar esta referencia sobre el [meta de compatibilidad][3]
