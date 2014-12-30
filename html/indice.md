@@ -2,31 +2,31 @@ HTML
 ----
 
 ##Configuraciones
-- [caracteres codificado]
-- [compatibilidad con internet explorer]
-- [doctype]
+- [Caracteres codificado]
+- [Compatibilidad con Internet Explorer]
+- [DOCTYPE]
 
 ##Haz que tu codigo sea facil de entender para todos
-- [capitalizacion]
-- [atributos en etiquetas de css y javascript]
-- [insertar html por javascript]
-- [reduccion de etiquetas]
-- [separacion de lenguajes]
-- [tablas]
-- [sintaxis]
-- [tipo de atributos]
+- [Capitalizacion]
+- [Atributos en etiquetas de CSS y JavaScript]
+- [Insertar HTML por JavaScript]
+- [Reduccion de etiquetas]
+- [Separacion de lenguajes]
+- [Tablas]
+- [Sintaxis]
+- [Tipo de atributos]
 
 ##Pequeños detalles
-- [atributos booleanos - mark otto]
-- [atributos booleanos]
-- [atributo del lenguaje]
-- [comillas en html]
-- [multimedia]
-- [semantica]
-- [protocolo]
+- [Atributos booleanos - Mark Otto]
+- [Atributos booleanos]
+- [Atributo del lenguaje]
+- [Comillas en HTML]
+- [Multimedia]
+- [Semántica]
+- [Protocolo]
 
 ##Solo es una guia 
-- [lo practico sobre la pureza]
+- [Lo practico sobre la pureza]
 
 [atributos booleanos - mark otto]:https://github.com/frontend-labs/style-guide/blob/master/html/atributos-booleanos-mark-otto.md
 
