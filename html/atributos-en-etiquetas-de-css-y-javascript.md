@@ -6,15 +6,12 @@ No es necesario colocar ``text/javascript``  o ``text/css``  en las etiquetas pa
 >```html
 <!-- CSS -->
 <link rel="stylesheet" href="main.css">
-
 <!-- Inline CSS -->
 <style>
   /* ... */
 </style>
-
 <!-- Javascript -->
 <script src="main.js"></script>
-
 <!-- Inline Javascript -->
 <script>
   /* ... */
