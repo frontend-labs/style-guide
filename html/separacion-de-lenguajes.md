@@ -1,5 +1,5 @@
 ##Separación de lenguajes
-Manten por separado la estructura(html), la presentacion(css) y la conducta (js). La intención es que tus templates solo contengan HTML el cual sirva solo para dar una estrctura a la web. Todos los estilos deben estar en otro archivo (css). La conducta de la web no debe presentar datos de estructura, en otras palabras no combines codigo html en tu javascript.
+Manten por separado la estructura(html), la presentacion(css) y la conducta (js). La intención es que tus templates solo contengan HTML el cual sirva solo para dar una estructura a la web. Todos los estilos deben estar en otro archivo (css). La conducta de la web no debe presentar datos de estructura, en otras palabras no combines codigo html en tu javascript.
 
 >**Ejemplo:**
 >```html
