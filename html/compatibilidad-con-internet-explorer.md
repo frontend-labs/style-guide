@@ -5,7 +5,7 @@ Internet Explorer soporta el uso de la  compatibilidad de documento mediante la 
 >Ejemplo
 >```<meta http-equiv="X-UA-Compatible" content="IE=Edge">```
 
-Revisar esta referencia sobre la [meta de compatibilidad]
+Para entender mas este punto, favor de revisar este [articulo].
 
 
-[meta de compatibilidad]:http://stackoverflow.com/questions/6771258/whats-the-difference-if-meta-http-equiv-x-ua-compatible-content-ie-edge-e
+[articulo]:http://stackoverflow.com/questions/6771258/whats-the-difference-if-meta-http-equiv-x-ua-compatible-content-ie-edge-e
