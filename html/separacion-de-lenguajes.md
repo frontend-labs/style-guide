@@ -8,8 +8,8 @@ Manten por separado la estructura(html), la presentacion(css) y la conducta (js)
 <html>
   <head>
     <title>HTML sucio</title>
-    <link rel="stylesheet" href="estilo1.css" media="screen">
-    <link rel="stylesheet" href="grilla.css" media="screen">
+    <link href="estilo1.css" media="screen" rel="stylesheet">
+    <link href="grilla.css" media="screen" rel="stylesheet">
   </head>
   <body>
     <h1 style="font-size: 1em;">HTML muy sucio</h1>
@@ -26,12 +26,12 @@ Manten por separado la estructura(html), la presentacion(css) y la conducta (js)
 <html>
   <head>
     <title>HTML Limpio</title>
-    <link rel="stylesheet" href="base.css">
+    <link href="base.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <h1>HTML Muy limpio</h1>
     <p>Todos los estilos estan en mi hoja de estilos :) </p>
-    <script src="funciones.js"></script>
+    <script src="funciones.js" type="text/javascript"></script>
   </body>
 </html>
 ```

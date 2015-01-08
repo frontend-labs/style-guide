@@ -4,12 +4,13 @@ Use el tipo de atributos para los estilos y también para código javascript . Y
 
 >**Ejemplo:**
 >```html
-<!-- Recomendado -->
-<link rel='stylesheet' href='http://frontend-labs.com/css/admin.css' type='text/css'/>
-<!-- No Recomendado -->
-<link rel='stylesheet' href='http://frontend-labs.com/css/admin.css'/>
-<!-- Recomendado -->
-<script type='text/javascript' src='http://frontend-labs.com/js/jquery.js'></script>
 <!-- No Recomendado -->
 <script src='http://frontend-labs.com/js/jquery.js'></script>
+<link href='http://frontend-labs.com/css/admin.css' rel='stylesheet'/>
 ```
+>```html
+<!-- Recomendado -->
+<link href="http://frontend-labs.com/css/admin.css" rel="stylesheet" type="text/css"/>
+<script src="http://frontend-labs.com/js/jquery.js" type="text/javascript" ></script>
+```
+

@@ -6,6 +6,6 @@ Se sugiere omitir el protocolo http, https de las urls que apunten a imágenes, 
 <!-- No recomendado -->
 <img src="http://frontend-labs.com/wp-content/uploads/2014/12/angular.jpg"/>
 <!-- recomendado -->
-<img src="//frontend-labs.com/wp-content/uploads/2014/12/angular.jpg"/>
+<img alt="una imagen" src="//frontend-labs.com/wp-content/uploads/2014/12/angular.jpg"/>
 ```
 

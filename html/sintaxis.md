@@ -26,7 +26,7 @@
     <title>FrontEnd Labs</title>
   </head>
   <body>
-    <img src="img1.jpg" alt="Imagen">
+    <img alt="Imagen" src="img1.jpg">
   </body>
 </html>
 ```

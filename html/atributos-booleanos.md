@@ -11,9 +11,9 @@ Por lo cual sugerimos no colocar ningún valor para los atributos booleanos.
 >```html
 <input type="text" disabled>
 
-<input type="checkbox" value="1" checked>
+<input checked type="checkbox" value="1">
 
 <select>
-	<option value="1" selected>1</option>
+	<option selected value="1">1</option>
 </select>
 ```

@@ -5,7 +5,7 @@ Usa doble comillas ("") para la asignacion de valores a los atributos.
 >**Ejemplo:**
 >```html
 <!-- No Recomendado -->
-<a class='enlace'>Otro Enlace</a>
+<p class='comilla simple'>Un Parrafo</p>
 <!-- Recomendado -->
-<a class="enlace">Otro Enlace</a>
+<p class="doble comilla">Otro Parrafo</p>
 ```

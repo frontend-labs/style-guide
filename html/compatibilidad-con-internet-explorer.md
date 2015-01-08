@@ -3,7 +3,7 @@
 Internet Explorer soporta el uso de la  compatibilidad de documento mediante la etiqueta ```<meta> ```. Asi puede especificarle al navegador con que versión de Internet Explorer debería renderizar. Es mejor indicarle que use la última versión soportada por el navegador.
 
 >Ejemplo
->```<meta http-equiv="X-UA-Compatible" content="IE=Edge">```
+>```<meta content="IE=Edge" http-equiv="X-UA-Compatible">```
 
 Para entender mas este punto, favor de revisar este [articulo].
 

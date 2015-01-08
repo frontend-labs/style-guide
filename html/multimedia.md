@@ -7,5 +7,5 @@ Si las imagenes son puramente decorativa se recomienda insertarlas por estilos c
 <!-- No recomendado -->
 <img src="producto.png">
 <!-- Recomendado -->
-<img src="producto.png" alt="Producto de la emrpesa.">
+<img alt="Producto de la emrpesa." src="producto.png">
 ```
