@@ -9,7 +9,6 @@ HTML
 ##Haz que tu codigo sea facil de entender para todos
 - [Capitalizacion]
 - [Atributos en etiquetas de CSS y JavaScript]
-- [Insertar HTML por JavaScript]
 - [Reduccion de etiquetas]
 - [Separacion de lenguajes]
 - [Tablas]
@@ -39,8 +38,6 @@ HTML
 [caracteres codificado]:https://github.com/frontend-labs/style-guide/blob/master/html/caracteres-codificados.md
 
 [atributos en etiquetas de css y javascript]:https://github.com/frontend-labs/style-guide/blob/master/html/atributos-en-etiquetas-de-css-y-javascript.md
-
-[insertar html por javascript]:https://github.com/frontend-labs/style-guide/blob/master/html/insertar-html-por-javascript.md
 
 [comillas en html]:https://github.com/frontend-labs/style-guide/blob/master/html/comillas-en-HTML.md
 
