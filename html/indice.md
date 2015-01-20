@@ -8,7 +8,6 @@ HTML
 
 ##Haz que tu codigo sea facil de entender para todos
 - [Capitalizacion]
-- [Atributos en etiquetas de CSS y JavaScript]
 - [Reduccion de etiquetas]
 - [Separacion de lenguajes]
 - [Tablas]
@@ -24,42 +23,40 @@ HTML
 - [Semantica]
 - [Protocolo]
 
-##Solo es una guia 
+##Solo es una guia
 - [Lo practico sobre la pureza]
 
-[atributos booleanos - mark otto]:https://github.com/frontend-labs/style-guide/blob/master/html/atributos-booleanos-mark-otto.md
+[atributos booleanos - mark otto]:atributos-booleanos-mark-otto.md
 
-[atributos booleanos]:https://github.com/frontend-labs/style-guide/blob/master/html/atributos-booleanos.md
+[atributos booleanos]:atributos-booleanos.md
 
-[atributo del lenguaje]:https://github.com/frontend-labs/style-guide/blob/master/html/atributos-del-lenguaje.md
+[atributo del lenguaje]:atributos-del-lenguaje.md
 
-[capitalizacion]:https://github.com/frontend-labs/style-guide/blob/master/html/capitalizacion.md
+[capitalizacion]:capitalizacion.md
 
-[caracteres codificado]:https://github.com/frontend-labs/style-guide/blob/master/html/caracteres-codificados.md
+[caracteres codificado]:caracteres-codificados.md
 
-[atributos en etiquetas de css y javascript]:https://github.com/frontend-labs/style-guide/blob/master/html/atributos-en-etiquetas-de-css-y-javascript.md
+[comillas en html]:comillas-en-HTML.md
 
-[comillas en html]:https://github.com/frontend-labs/style-guide/blob/master/html/comillas-en-HTML.md
+[compatibilidad con internet explorer]:compatibilidad-con-internet-explorer.md
 
-[compatibilidad con internet explorer]:https://github.com/frontend-labs/style-guide/blob/master/html/compatibilidad-con-internet-explorer.md
+[doctype]:doctype.md
 
-[doctype]:https://github.com/frontend-labs/style-guide/blob/master/html/doctype.md
+[lo practico sobre la pureza]:lo-practico-sobre-la-pureza.md
 
-[lo practico sobre la pureza]:https://github.com/frontend-labs/style-guide/blob/master/html/lo-practico-sobre-la-pureza.md
+[multimedia]:multimedia.md
 
-[multimedia]:https://github.com/frontend-labs/style-guide/blob/master/html/multimedia.md
+[protocolo]:protocolo.md
 
-[protocolo]:https://github.com/frontend-labs/style-guide/blob/master/html/protocolo.md
+[reduccion de etiquetas]:reduccion-de-etiquetas.md
 
-[reduccion de etiquetas]:https://github.com/frontend-labs/style-guide/blob/master/html/reduccion-de-etiquetas.md
+[semantica]:semantica.md
 
-[semantica]:https://github.com/frontend-labs/style-guide/blob/master/html/semantica.md
+[separacion de lenguajes]:separacion-de-lenguajes.md
 
-[separacion de lenguajes]:https://github.com/frontend-labs/style-guide/blob/master/html/separacion-de-lenguajes.md
+[sintaxis]:sintaxis.md
 
-[sintaxis]:https://github.com/frontend-labs/style-guide/blob/master/html/sintaxis.md
+[tablas]:tablas.md
 
-[tablas]:https://github.com/frontend-labs/style-guide/blob/master/html/tablas.md
-
-[tipo de atributos]:https://github.com/frontend-labs/style-guide/blob/master/html/tipo-de-atributos.md
+[tipo de atributos]:tipo-de-atributos.md
 
