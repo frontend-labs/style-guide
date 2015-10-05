@@ -116,6 +116,7 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
   st = {};
   catchDom = function () {};
   events = function () {};
+  suscribeEvents = function () {};
   fn = function () {
     getOption = function (){
       var option = false;
@@ -125,7 +126,6 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
       return option;
     }
   };
-  suscribeEvents = function () {};  
   initialize = function (oP) {
     $.extend(st, oP);
     catchDom();
