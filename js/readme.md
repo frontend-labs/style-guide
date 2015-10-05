@@ -11,7 +11,7 @@ Javascript: YosonJS,  hemos desarrollado un pequeño documento con las reglas m�
 
 ### 1. Todo módulo debe tener una cabecera informativa
 
-Todo módulo YosonJS debe tener una cabecera, compuesta de un comentario multilinea con los siguientes datos básicos:
+Todo módulo YosonJS debe tener una cabecera, compuesta de un comentario multilínea con los siguientes datos básicos:
 
 - Descripción del módulo
 - Nombre del módulo
@@ -27,7 +27,7 @@ Descripción del módulo
 */
 ```
 
-Si el módulo es actualizado por otro miembro del equipo, este debe colocar una coma a continuación del nombre del autor del módulo y luego su debe colocar su nombre también.
+Si el módulo es actualizado por otro miembro del equipo, este debe colocar una coma a continuación del nombre del autor del módulo y luego se debe colocar su nombre también.
 
 **Ejemplo:**
 
@@ -45,7 +45,7 @@ Descripción del módulo
 El nombre de un módulo debe estar en `snake_case`. Esto quiere decir que el nombre del modulo debe cumplir las siguientes condiciones:
 
 - Debe estar estrictamente en minúsculas
-- Si el nombre del módulo tiene más de una palabra,  debe usarse el simbolo "guión bajo" para unir las palabras siguientes
+- Si el nombre del módulo tiene más de una palabra,  debe usarse el símbolo "guión bajo" para unir las palabras siguientes
 - No debe contener espacios en blanco
 
 **Ejemplo:**
@@ -57,7 +57,7 @@ Descripción del módulo
 @author Andres Muñoz 
 */
 yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
-  // contenido del modulo
+  // contenido del módulo
 },
 ["dependencies.js"]);
 ```
@@ -177,4 +177,8 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
 
 
 ----------
+
+
+
+
 
