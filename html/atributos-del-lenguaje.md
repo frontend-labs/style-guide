@@ -1,6 +1,6 @@
 ##Atributo del lenguaje
 
-Se tiene que colocar el atributo **lang** en la raíz del tag html con el idioma que se trabajara la página, para que así las herramientas de traducción sepan que reglas usar y los sintetizadores de voz sepan que las pronunciaciones a aplicar.
+Se tiene que colocar el atributo **lang** en la raíz del tag html con el idioma que se trabajara la página, para que así las herramientas de traducción sepan que reglas usar y los sintetizadores de voz sepan que pronunciaciones a aplicar.
 
 >**Ejemplo:**
 >```html
