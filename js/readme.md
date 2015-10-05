@@ -3,7 +3,7 @@
 
 ## Reglas básicas para el uso del patrón modular con YosonJS
 
-Debido a que en el desarrollo de nuestros proyectos utilizamos la librería Javascript: **YosonJS**, hemos desarrollado un pequeño documento con las reglas mínimas para codificar un módulo YosonJS y así tener un estándar interno como equipo.
+Debido a que para el desarrollo de nuestros proyectos utilizamos la librería Javascript: **YosonJS**, hemos desarrollado un documento con las reglas mínimas para codificar un módulo YosonJS y así tener un estándar interno como equipo.
 
 
 ## Reglas
