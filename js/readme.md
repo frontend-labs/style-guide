@@ -42,7 +42,7 @@ Descripción del módulo
 
 ### 2.   El nombre del módulo debe estar en "snake_case"
 
-El nombre de un módulo debe estar en "snake_case". Esto quiere decir que el nombre del modulo debe cumplir las siguientes condiciones:
+El nombre de un módulo debe estar en `snake_case`. Esto quiere decir que el nombre del modulo debe cumplir las siguientes condiciones:
 
 - Debe estar estrictamente en minúsculas
 - Si el nombre del módulo tiene más de una palabra,  debe usarse el simbolo "guión bajo" para unir las palabras siguientes
@@ -143,7 +143,8 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
 
 ### 5. Las funciones no deben comenzar con mayúscula
 
-Las funciones dentro de un módulo no deben comenzar con una letra mayuscula. 
+- Los nombres de las funciones de las funciones dentro de un módulo no deben comenzar con una letra mayúscula
+- Los nombres de las funciones deben estar en `lowerCamelCase`, como las funciones: `catchDom`, `events`, `fn`, `suscribeEvents` y `initialize` del siguiente ejemplo.
 
 **Ejemplo:**
 
@@ -173,10 +174,6 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
 },
 ["dependencies.js"]);
 ```
-
-
-
-
 
 
 ----------
