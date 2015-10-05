@@ -84,7 +84,7 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
   fn = function () {};
   suscribeEvents = function () {};  
   initialize = function (oP) {
-    $.extend (st, oP);
+    $.extend(st, oP);
     catchDom();
     suscribeEvents();
   }
@@ -127,7 +127,7 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
   };
   suscribeEvents = function () {};  
   initialize = function (oP) {
-    $.extend (st, oP);
+    $.extend(st, oP);
     catchDom();
     suscribeEvents();
   }
@@ -162,7 +162,7 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
   fn = function () {};
   suscribeEvents = function () {};  
   initialize = function (oP) {
-    $.extend (st, oP);
+    $.extend(st, oP);
     catchDom();
     suscribeEvents();
   }
