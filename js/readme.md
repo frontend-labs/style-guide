@@ -27,7 +27,7 @@ Descripción del módulo
 */
 ```
 
-Si el módulo es actualizado por otro miembro del equipo, este debe colocar una coma a continuación del nombre del autor del módulo y luego se debe colocar su nombre también.
+Si el módulo es actualizado por otro miembro del equipo, este debe colocar una coma a continuación del nombre del autor del módulo y luego debe colocar su nombre también.
 
 **Ejemplo:**
 
@@ -141,7 +141,7 @@ yOSON.AppCore.addModule ("nombre_del_modulo",  function (Sb) {
 ```
 
 
-### 5. Las funciones no deben comenzar con mayúscula
+### 5. Las nombres de las funciones no deben comenzar con mayúscula
 
 - Los nombres de las funciones de las funciones dentro de un módulo no deben comenzar con una letra mayúscula
 - Los nombres de las funciones deben estar en `lowerCamelCase`, como las funciones: `catchDom`, `events`, `fn`, `suscribeEvents` y `initialize` del siguiente ejemplo.
